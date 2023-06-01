@@ -10,15 +10,15 @@
   },
   "dependencies": {
     "@expo-google-fonts/montserrat": "^0.2.3",
-    "expo": "~48.0.15",
-    "expo-app-loading": "^2.1.1",
-    "expo-font": "~11.1.1",
-    "expo-status-bar": "~1.4.4",
-    "react": "18.2.0",
-    "react-native": "0.71.7"
+    "expo": "^47.0.0",
+    "expo-app-loading": "~2.1.1",
+    "expo-font": "~11.0.1",
+    "expo-status-bar": "~1.4.2",
+    "react": "18.1.0",
+    "react-native": "0.70.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.19.3"
   },
   "private": true
 }
